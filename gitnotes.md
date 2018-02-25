@@ -10,3 +10,10 @@ These are my notes on git.
 ---
 
 ### Tracking Changes
+Now what...
+
+Hi again
+
+
+i like math.
+#### this is my third change
